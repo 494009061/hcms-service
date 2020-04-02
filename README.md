@@ -1,7 +1,4 @@
 ### hcms
-![https://img.shields.io/badge/license-Apache%202.0-blue.svg?longCache=true&style=flat-square](https://img.shields.io/badge/license-Apache%202.0-blue.svg?longCache=true&style=flat-square)
-![https://img.shields.io/badge/springboot-2.0.6-yellow.svg?style=flat-square](https://img.shields.io/badge/springboot-2.0.6-yellow.svg?style=flat-square)
-![https://img.shields.io/badge/shiro-1.4.0-orange.svg?longCache=true&style=flat-square](https://img.shields.io/badge/shiro-1.4.0-orange.svg?longCache=true&style=flat-square)
 
 hcsm是一款简单高效的后台管理系统，使用Spring Boot和Vue构建。相信无论作为企业级应用，私活开发脚手架或者后台管理系统构建学习，hscm都会是一个不错的选择。
 
